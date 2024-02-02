@@ -1,0 +1,1 @@
+gunakan qt designer untuk melakukan desktop ui
